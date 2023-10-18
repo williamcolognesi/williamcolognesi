@@ -1,7 +1,7 @@
 ### Olá! Eu sou o William Colognesi ✌️
 
 [![Site](https://img.shields.io/website?label=WilliamColognesi.online&style=for-the-badge&url=https://www.williamcolognesi.online/)](https://www.williamcolognesi.online/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamcolognesi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamcolognesi.dev)
 
 Formado em Ciência da Computação pela Universidade Paulista, atuo como desenvolvedor FrontEnd no setor de marketing em uma Smart Tech.
 
