@@ -3,7 +3,7 @@
 [![Site](https://img.shields.io/website?label=WilliamColognesi.com&style=for-the-badge&url=https://www.williamcolognesi.com/)](https://www.williamcolognesi.com/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamcolognesi.dev)
 
-Formado em Ciência da Computação pela Universidade Paulista, atuo como desenvolvedor FrontEnd no setor de marketing em uma Smart Tech.
+Formado em Ciência da Computação pela Universidade Paulista, atuo como desenvolvedor FrontEnd no setor de marketing digital.
 
 ![William Colognesi GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcolognesi&show_icons=true&theme=dracula)
 
