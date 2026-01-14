@@ -5,8 +5,6 @@
 
 Formado em Ciência da Computação pela Universidade Paulista, atuo como desenvolvedor FrontEnd no setor de marketing digital.
 
-![William Colognesi GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcolognesi&show_icons=true&theme=dracula)
-
 ## Tecnologias utilizadas
 
 <div style="display: inline-block"> <br/> 
